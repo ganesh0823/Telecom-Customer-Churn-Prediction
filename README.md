@@ -29,7 +29,7 @@ Data collection in data science is the process of gathering data from various so
   - Source: Sourced from a telecommunications company.
   - Purpose: Used for real-world customer churn analysis.
 
-Dataset - Telecom Customer Churn Dataset
+Dataset - [Telecom Customer Churn](https://github.com/ganesh0823/Telecom-Customer-Churn-Prediction/blob/main/Telco_Customer_Churn.csv)
 
 ![image](https://github.com/user-attachments/assets/6e24beeb-247d-4e74-b1c6-8c340020de51)
 
