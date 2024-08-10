@@ -4,11 +4,11 @@ This project aims to predict customer churn for a telecom company using machine 
 
 ## Table of Contents
 - [Project Overview](#project-overview)
-- [Data Collection ](#Data-ollection )
+- [Data Collection](#data-collection )
 - [Data Preprocessing](#data-preprocessing)
 - [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
 - [Machine Learning Model](#machine-learning-model)
-- [Businnes Recommendations](#Businnes-Recommendations)
+- [Business Recommendations](#business-recommendations)
 - [Conclusion](#conclusion)
 
 ## Project Overview
@@ -50,8 +50,8 @@ Dataset - Telecom Customer Churn Dataset
 Key Insights:
 
      1) The dataset includes a diverse customer base, with almost equal distribution between male and female customers.
-     2) Senior citizens constitute around __16%__ of the customer base.
-     3) Approximately __50%__ of customers have a partner, while only __30%__ have dependents.
+     2) Senior citizens constitute around 16% of the customer base.
+     3) Approximately 50% of customers have a partner, while only 30% have dependents.
      4) Most customers opt for month-to-month contracts, indicating flexibility in service usage.
      5) Customers with longer tenure tend to have two-year contracts.
 
@@ -67,7 +67,7 @@ Key Findings:
     3) Churn is inversely related to the total charges, indicating lower churn when total charges are higher.
 
 
-## Machine Leaning Model
+## Machine Learning Model
 1) Logistic Regression:   
   -  Type: Supervised learning algorithm used for classification tasks.
   -  Concept: It models the relationship between the dependent binary variable (target) and one or more independent variables by estimating probabilities using a logistic function. It's suitable for binary classification.
@@ -106,7 +106,6 @@ Interpretation -
 3) The business should focus on retaining customers with shorter tenures, offering attractive contract terms, and managing monthly charges effectively.
 
 ## Business Recommendations
-
   - Implement targeted retention strategies for customers with shorter tenures, such as promotional offers or discounts on long-term contracts.
   - Enhance customer communication and satisfaction, especially for senior citizens who exhibit a higher churn rate.
   - Optimize pricing strategies to maintain competitive monthly charges while emphasizing the value of services.
